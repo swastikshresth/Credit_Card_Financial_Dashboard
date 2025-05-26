@@ -1,5 +1,11 @@
 # Credit_Card_Financial_Dashboard
 
+***Import data to SQL database***
+1. Prepare csv file
+2. Create tables in SQL
+3. import csv file into SQL
+
+
 *** DAX Queries***
 1. Week_Num1 = WEEKNUM(cc_details[Week_Start_Date].[Date])
 2. wow_revenue = ((cc_details[Current_Week_Revenue]-cc_details[Previous_week_Revenue])/cc_details[Previous_week_Revenue])
