@@ -48,7 +48,6 @@
 WoW(week on week) change:
 • Revenue increased by 28.8%,
 • Total Transaction Amt & Count increased by 35.04% & 3.39%
-• Customer count increased by xx%
 Overview YTD:
 • Overall revenue is 57M
 • Total interest is 8M
